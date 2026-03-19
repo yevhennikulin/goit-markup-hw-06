@@ -368,6 +368,7 @@ body {
 
 .mobile-social-icon {
   fill: #f4f4fd;
+  color: #f4f4fd;
 }
 
 @media screen and (min-width: 768px) {
